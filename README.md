@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm Mauricio Almeyda > [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+### Hi there 👋 I'm Mauricio Almeyda  [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 > Software Engineer
 
@@ -32,8 +32,5 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 
 > ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
-
-> [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
