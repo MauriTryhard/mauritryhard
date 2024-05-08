@@ -39,5 +39,6 @@ I have excellent design & coding skills, as well as an ability to convert requir
 </p>
 <p>
 
-> EDITOR: (https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+> [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
 
