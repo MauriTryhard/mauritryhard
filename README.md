@@ -34,6 +34,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 > ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
+</p>
+</div>
 
 ### <img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
 
