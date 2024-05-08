@@ -13,7 +13,7 @@ I am Mid-level Web developer able to build a Web presence from the ground up - f
 
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 
-[![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ferbalmeyd.ferbalmeyd@gmail.com "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/-ferbalmeyd@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ferbalmeyd.ferbalmeyd@gmail.com "Connect via Email")
 
 </p>
 </div>
