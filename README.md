@@ -32,10 +32,6 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 > ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-
-> ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-
-
 <p>
   📣 REDES SOCIALES :<br/>
   <a href="https://instagram.com/ferbalmeyd_"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
