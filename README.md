@@ -1,7 +1,10 @@
 
-### Hi there 👋 I'm Mauricio Almeyda            [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+### Hi there 👋 I'm Mauricio Almeyda
 
 > Software Engineer
+
+
+> [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
 <img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
