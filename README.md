@@ -15,7 +15,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 </p>
 </div>
 
-### Programming Languages 🌐
+### Programming Languages:
 
 > ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
