@@ -21,12 +21,13 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Programming Languages:
 
+BD: PL-SQL Oracle Developer / SQL server
 
-> ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+Back: Python, C#, Java, PHP 
 
+Front: HTML / CSS / JS / React / Angular
 
-> ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
+Otros: C++ , Swift, PowerApps
 
 ============
 
