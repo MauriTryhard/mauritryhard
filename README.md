@@ -9,9 +9,9 @@
 ## 🚀 Tecnologías que domino  
 
 ### Front-End  
-- **HTML**: La base de cualquier proyecto web.  
-- **CSS**: Para diseños atractivos y funcionales.  
-- **JavaScript**: El alma interactiva de las aplicaciones web.  
+- **HTML**
+- **CSS** 
+- **JavaScript**
 - **Frameworks**: React | Angular | Vue.js  
 
 ### Back-End  
