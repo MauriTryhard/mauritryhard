@@ -1,4 +1,4 @@
-# 👨‍💻 Fernando Mauricio Almeyda Valentin  
+# Fernando Mauricio Almeyda Valentin  
 
 🎯 **Full Stack Developer | Explorador del front-end y maestro del back-end**  
 
