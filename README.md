@@ -1,33 +1,45 @@
+# 👨‍💻 Fernando Mauricio Almeyda Valentin  
 
+🎯 **Full Stack Developer | Explorador del front-end y maestro del back-end**  
 
-### Hi there 👋 I'm Mauricio Almeyda
+👋 ¡Hola! Soy Mauri, un apasionado desarrollador Full Stack con experiencia tanto en front-end como en back-end. Mi camino de aprendizaje ha sido diverso y emocionante, dominando herramientas y tecnologías para crear soluciones completas.  
 
-> Software Engineer
+---
 
+## 🚀 Tecnologías que domino  
 
-> [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+### Front-End  
+- **HTML**: La base de cualquier proyecto web.  
+- **CSS**: Para diseños atractivos y funcionales.  
+- **JavaScript**: El alma interactiva de las aplicaciones web.  
+- **Frameworks**: React | Angular | Vue.js  
 
+### Back-End  
+- **Node.js** y **Express.js**: Construcción de servidores robustos y eficientes.  
 
-<div>
- <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+### Bases de Datos  
+- **SQL Server Management**  
+- **MySQL**  
+- **PostgreSQL**  
+- **Oracle**  
 
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+---
 
-[![Gmail Badge](https://img.shields.io/badge/-ferbalmeyd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ferbalmeyd@gmail.com)](mailto:ferbalmeyd@gmail.com)
+## 📚 Un poco sobre mí  
+Comencé mi aventura en Linux y Windows para comprender sus terminales. Desde allí, mi pasión por la tecnología me llevó a explorar el desarrollo web en su totalidad, desde los fundamentos del front-end hasta los complejos procesos del back-end y la gestión de bases de datos.  
 
-</p>
-</div>
+Creo firmemente en el aprendizaje continuo y en la creación de soluciones que combinan diseño, funcionalidad y rendimiento.  
 
-### Programming Languages:
+---
 
-BD: PL-SQL Oracle Developer / SQL server
+## 📌 Proyectos Destacados  
+¡Explora mis repositorios para conocer más sobre los proyectos que estoy desarrollando!  
 
-Back: Python, C#, Java, PHP 
+---
 
-Front: HTML / CSS / JS / React / Angular
+## 📬 Contáctame  
+[![Gmail Badge](https://img.shields.io/badge/-ferbalmeyd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ferbalmeyd@gmail.com)](mailto:ferbalmeyd@gmail.com)  
 
-Otros: C++ , Swift, PowerApps
 
 ============
 
