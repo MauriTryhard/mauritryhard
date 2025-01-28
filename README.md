@@ -9,8 +9,6 @@
 ## 🚀 Tecnologías que domino  
 
 ### Front-End  
-- **HTML**
-- **CSS** 
 - **JavaScript**
 - **Frameworks**: React | Angular | Vue.js  
 
